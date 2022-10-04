@@ -2069,7 +2069,7 @@ export default {
           })
           let guide = new Blob(
             [
-              '<html><head><meta http-equiv="refresh" content="0; url=https://cashmere-solutions.Cashmere-Solutions.com/hosting-guide" /></head></html>',
+              '<html><head><meta http-equiv="refresh" content="0; url=https://vbc.Cashmere-Solutions.com/hosting-guide" /></head></html>',
             ],
             {
               type: 'text/html',
@@ -2167,3 +2167,5 @@ export default {
   },
 }
 </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3348554973134793"
+     crossorigin="anonymous"></script>

@@ -21,8 +21,8 @@ export default {
     ogDescription:
       'Cashmere-Solutions helps you create beautiful, responsive HTML-based digital business cards that can be hosted on your website.',
     ogSiteName: 'Cashmere-Solutions -Free Digital Business Card Generator',
-    theme_color: '#111827',
-    author: 'Vishnu Raghav',
+    theme_color: '#ceb322',
+    author: 'Ahmad Alawi',
     lang: 'en',
     name: 'Cashmere-Solutions -Free Digital Business Card Generator',
   },
@@ -41,7 +41,7 @@ export default {
         hid: 'msapplication-TileColor',
         name: 'msapplication-TileColor',
         property: 'msapplication-TileColor',
-        content: '#111827',
+        content: '#ceb322',
       },
       {
         hid: 'msapplication-TileImage',
@@ -73,7 +73,7 @@ export default {
       },
       {
         rel: 'mask-icon',
-        color: '#111827',
+        color: '#ceb322',
         href: '/safari-pinned-tab.svg',
       },
     ],
@@ -84,8 +84,8 @@ export default {
     short_name: 'Cashmere-Solutions',
     start_url: '/',
     display: 'standalone',
-    theme_color: '#111827',
-    background_color: '#111827',
+    theme_color: '#ceb322',
+    background_color: '#ceb322',
     display: 'standalone',
     icons: [
       {

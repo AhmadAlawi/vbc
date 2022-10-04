@@ -57,7 +57,7 @@ You can,
 
 - [Boxicons](https://boxicons.com/)
 - [Feather icons](https://feathericons.com)
-- Logo and some icons by [Vishnu Raghav](https://www.CASHMERE-SOLUTIONS.com/)
+- Logo and some icons by [Ahmad Alawi](https://www.CASHMERE-SOLUTIONS.com/)
 - [QRCode-SVG](https://github.com/papnkukn/qrcode-svg)
 
 ## Self-Hosting Guide - Docker
@@ -83,7 +83,7 @@ cp env.example .env
 
 ```
 cashmere-solutions - An Open-Source Digital Business Card Generator
-Copyright (C) 2021  Vishnu Raghav B
+Copyright (C) 2021  Ahmad Alawi B
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
@@ -102,4 +102,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Support me
 
-<a href="https://www.CASHMERE-SOLUTIONS.com/donate/"><img alt="Donate to Vishnu Raghav" src="assets/images/donate.svg" width="207"></a>
+<a href="https://www.CASHMERE-SOLUTIONS.com/donate/"><img alt="Donate to Ahmad Alawi" src="assets/images/donate.svg" width="207"></a>
