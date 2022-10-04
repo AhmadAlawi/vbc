@@ -1,4 +1,13 @@
 <template>
+   <div class="ad-container">
+    <Adsense
+      data-ad-client="ca-pub-3348554973134793"
+      data-ad-slot="1234567890"
+      data-ad-format="auto"
+      :data-full-width-responsive="true"
+    >
+    </Adsense>
+  </div>
   <div
     ref="container"
     class="container relative bg-gray-900 mx-auto text-gray-100"
@@ -1067,6 +1076,11 @@ import Theme1 from '!!raw-loader!~/assets/styles/T1.min.css'
 import Theme2 from '!!raw-loader!~/assets/styles/T2.min.css'
 import Theme3 from '!!raw-loader!~/assets/styles/T3.min.css'
 import { mapState, mapActions } from 'vuex'
+import Ads from 'vue-google-adsense'
+import HelpVue from '~/components/Help.vue'
+
+Vue.use(require('vue-script2'))
+Vue.use(Ads.Adsense)
 
 export default {
   components: {
@@ -2167,5 +2181,4 @@ export default {
   },
 }
 </script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3348554973134793"
-     crossorigin="anonymous"></script>
+
